@@ -1,5 +1,3 @@
-## Updated README.md with Embedded Image ##
-
 This repository contains a **complete MATLAB solution** for modeling Gaussian noise in images and comparing **traditional filters** vs. a **state-of-the-art deep learning model (DnCNN)**.
 
 ---
