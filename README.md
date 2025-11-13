@@ -49,7 +49,7 @@ This repository contains a **complete MATLAB solution** for modeling Gaussian no
 ### Steps
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/gaussian-denoising-comparison.git
+   git clone https://github.com/HammadKhalid75/Lab7.git
    cd gaussian-denoising-comparison
 
 Run in MATLAB:matlabrun('denoising_comparison.m')
@@ -59,7 +59,7 @@ results/comparison.png (auto-saved)
 
 
 
-📁 Repository Structure
+## Repository Structure ##
 ├── denoising_comparison.m     Main script
 ├── cameraman.tif             Test image
 ├── results/
